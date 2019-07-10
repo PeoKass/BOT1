@@ -1,1 +1,1 @@
-Start MinecraftClient.exe Altlaunch.ini awesomealex@comcast.net Pokemon12 mineheroes.net
+Start MinecraftClient.exe Altlaunch.ini2 mineheroes.net
